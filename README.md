@@ -1,2 +1,9 @@
-# tensorflow-in-practice-specialization-master
-Discover the tools software developers use to build scalable AI-powered algorithms in TensorFlow, a popular open-source machine learning framework.  In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks. Improve a network’s performance using convolutions as you train it to identify real-world images. You’ll teach machines to understand, analyze, and respond to human speech with natural language processing systems. Learn to process text, represent sentences as vectors, and input data to a neural network. You’ll even train an AI to create original poetry!  AI is already transforming industries across the world. After finishing this Specialization, you’ll be able to apply your new TensorFlow skills to a wide range of problems and projects.
+![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
+
+### Certificates
+
+1. [Introduction to Tensorflow for Artificial Intelligence, Machine Learning and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7Q9KCW6PKVEG)
+2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/PTUSBPGHX72S)
+3. [Natural Language Processing in Tensorflow](https://www.coursera.org/account/accomplishments/certificate/Z9SJHTQG8YRG)
+4. [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/FQ45KGBDCNRF)
+5. [Tensorflow in Practice Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YB4EV4PNJED8)
